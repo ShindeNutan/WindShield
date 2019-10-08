@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WindShield</string>
+    <string name="number">9867386385</string>
+    <string name="app_deve">App Development By: </string>
+    <string name="app_deve_name"> Apeksha Web Development and IT Services</string>
+    <string name="runtime_permissions_txt"><![CDATA[<string name=\"runtime_permissions_txt\">Runtime Permission Error</string>]]></string>
+</resources>
